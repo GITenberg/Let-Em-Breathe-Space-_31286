@@ -1,0 +1,39 @@
+_repo: Let-Em-Breathe-Space-_31286
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31286-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Del Rey, Lester
+    aliases:
+    - Rey, Lester del
+    - Knapp, Leonard
+    birthdate: 1915
+    deathdate: 1993
+    gutenberg_agent_id: '8240'
+    url: http://www.gutenberg.org/2009/agents/8240
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/46565
+    - http://en.wikipedia.org/wiki/Lester_del_Rey
+description: Five months out from Earth, we were half-way to Saturn and three-quarters
+  of the way to murder. At least, I was. I was sick of the feuding, the worries and
+  the pettiness of the other nineteen aboard. My stomach heaved at the bad food, the
+  eternal smell of people, and the constant sound of nagging and complaints. For ten
+  lead pennies, I'd have gotten out into space and tried walking back to Earth. Sometimes
+  I thought about doing it without the pennies.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manned space flight -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Let 'Em Breathe Space!
+url: http://www.gutenberg.org/ebooks/31286
